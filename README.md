@@ -14,7 +14,7 @@ C#, .Net Core 5, Console project, and Visual Studio
 
 ## Test Cases
 
-xUnit
+xUnit-based test cases 
 
 
 ## Prerequirements
