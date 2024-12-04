@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iron.OldMobileKeypad", "Iron.OldMobileKeypad.csproj", "{4BAC5665-56FE-415D-8A61-F243E461815D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iron.OldMobileKeypad.Services", "..\Iron.OldMobileKeypad.Services\Iron.OldMobileKeypad.Services.csproj", "{EEB15EB1-4101-4F56-ABB9-F2A276FC4F45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iron.Common", "..\Iron.Common\Iron.Common.csproj", "{8F012922-5F91-462E-B216-1D8A8AFA92FB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iron.Tests", "..\Iron.Tests\Iron.Tests.csproj", "{9901F57C-30D3-43D4-ACA7-FC938DB73EA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iron.OldMobileKeypad.Services", "..\Iron.OldMobileKeypad.Services\Iron.OldMobileKeypad.Services.csproj", "{A3F91512-D31B-45C2-A77B-69AE6E599B56}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iron.Common", "..\Iron.Common\Iron.Common.csproj", "{718DE579-5124-49BC-9E08-0FD36D9ED6C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iron.Tests", "..\Iron.Tests\Iron.Tests.csproj", "{4A9EA0A1-12E4-4A6C-B9AB-CD8E8CCA8086}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +21,18 @@ Global
 		{4BAC5665-56FE-415D-8A61-F243E461815D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BAC5665-56FE-415D-8A61-F243E461815D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BAC5665-56FE-415D-8A61-F243E461815D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EEB15EB1-4101-4F56-ABB9-F2A276FC4F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EEB15EB1-4101-4F56-ABB9-F2A276FC4F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EEB15EB1-4101-4F56-ABB9-F2A276FC4F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EEB15EB1-4101-4F56-ABB9-F2A276FC4F45}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9901F57C-30D3-43D4-ACA7-FC938DB73EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9901F57C-30D3-43D4-ACA7-FC938DB73EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9901F57C-30D3-43D4-ACA7-FC938DB73EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9901F57C-30D3-43D4-ACA7-FC938DB73EA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{718DE579-5124-49BC-9E08-0FD36D9ED6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{718DE579-5124-49BC-9E08-0FD36D9ED6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{718DE579-5124-49BC-9E08-0FD36D9ED6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{718DE579-5124-49BC-9E08-0FD36D9ED6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F012922-5F91-462E-B216-1D8A8AFA92FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F012922-5F91-462E-B216-1D8A8AFA92FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F012922-5F91-462E-B216-1D8A8AFA92FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F012922-5F91-462E-B216-1D8A8AFA92FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F91512-D31B-45C2-A77B-69AE6E599B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F91512-D31B-45C2-A77B-69AE6E599B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F91512-D31B-45C2-A77B-69AE6E599B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F91512-D31B-45C2-A77B-69AE6E599B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9EA0A1-12E4-4A6C-B9AB-CD8E8CCA8086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9EA0A1-12E4-4A6C-B9AB-CD8E8CCA8086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9EA0A1-12E4-4A6C-B9AB-CD8E8CCA8086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9EA0A1-12E4-4A6C-B9AB-CD8E8CCA8086}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
