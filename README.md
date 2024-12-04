@@ -8,8 +8,13 @@ Old mobile keypad input to output changer
 
 A sample project to convert input from numeric values on an old keypad phone and display or write the correct output after performing logic in the background.
 
-## Tech Stack: C#, .Net Core 5, Console project, and Visual Studio 
-## Test Cases: xUnit
+## Tech Stack
+
+C#, .Net Core 5, Console project, and Visual Studio 
+
+## Test Cases
+
+xUnit
 
 
 ## Prerequirements
